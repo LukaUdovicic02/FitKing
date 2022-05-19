@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">NavDrawerFragment</string>
+    <string name="app_name">FitKing</string>
     <string name="message">message</string>
     <string name="profile">Profile</string>
     <string name="chat">Chat</string>
     <string name="communicate">Communicate</string>
-    
+
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "603267818872",
+    "firebase_url": "https://fitkingauth-e5fec-default-rtdb.firebaseio.com",
+    "project_id": "fitkingauth-e5fec",
+    "storage_bucket": "fitkingauth-e5fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603267818872:android:17f7f95ac340be58af548d",
+        "android_client_info": {
+          "package_name": "com.example.fitking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603267818872-qokftlnuebns75p93ieg0bjeouth2jh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTWRat2DVIRXt6jQsBiASXLFPfofm250"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603267818872-qokftlnuebns75p93ieg0bjeouth2jh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
